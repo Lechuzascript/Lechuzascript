@@ -11,6 +11,7 @@
 - :earth_asia: Vivo actualmente en **Santiago, Región Metropolitana, Chile**
 - :sweat_smile: Computin de Infancia, recién llegado al area de la programación, mi foco esta centrado en el desarrollo web sobre el cual estoy aprendiendo dia a dia.
 - :monocle_face: Mi interes principal es codear ideas innovadoras y potenciar dia a dia mis habilidades, construyendo aplicaciones web interactivas y eficientes.
+- :sunglasses: ***Persevera y triunfaras, cree en ti y en tus capacidades y seras infinito*** 
 - :ok_hand: Diciembre 17, 1994 :point_right: Don´t Worry :point_right: Be Happy :point_right: Revisa mas información abajo :point_right:
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Lenguajes y Herramientas Conocidas
